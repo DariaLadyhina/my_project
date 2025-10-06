@@ -17,6 +17,9 @@ ETL   →   Postgre SQL   →    Power BI
 
 ° Поглибити розуміння A/B тестування, аналітичного синтезу та інтеграції інструментів.
 
+# ETL - обробка в Python 
+
+ [Jupyter Notebook: A/B Testing] https://nbviewer.org/github/DariaLadyhina/my_project/blob/main/Project_a_b_test.ipynb
 
 
 
