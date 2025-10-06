@@ -50,11 +50,11 @@ SQL-скрипти для створення view:
 
 ERD for db_a_b_test https://github.com/DariaLadyhina/my_project/blob/main/ERD%20for%20DB.png
 
-# Візуалізація Pwer BI
+# Візуалізація Power BI
 
-- [PDF-версія дашборду](BI/dashboard_preview.pdf) — для швидкого перегляду
+- [PDF-версія дашборду] — для швидкого перегляду https://github.com/DariaLadyhina/my_project/blob/main/ab_test_v16_26.pdf
   
-- [Файл Power BI (.pbix)]([BI/dashboard.pbix](https://github.com/DariaLadyhina/my_project/blob/main/ab_test_v16_26.pbix)) — для локального відкриття
+- [Файл Power BI (.pbix)] — для локального відкриття https://github.com/DariaLadyhina/my_project/blob/main/ab_test_v16_26.pbix
 
 
 
