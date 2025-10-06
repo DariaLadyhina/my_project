@@ -52,8 +52,9 @@ ERD for db_a_b_test https://github.com/DariaLadyhina/my_project/blob/main/ERD%20
 
 # Візуалізація Pwer BI
 
-- 📄 [PDF-версія дашборду](BI/dashboard_preview.pdf) — для швидкого перегляду
-- 📊 [Файл Power BI (.pbix)](BI/dashboard.pbix) — для локального відкриття
+- [PDF-версія дашборду](BI/dashboard_preview.pdf) — для швидкого перегляду
+  
+- [Файл Power BI (.pbix)]([BI/dashboard.pbix](https://github.com/DariaLadyhina/my_project/blob/main/ab_test_v16_26.pbix)) — для локального відкриття
 
 
 
