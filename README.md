@@ -46,6 +46,16 @@ SQL-скрипти для створення view:
   
 - `create_view_daily_agg.sql` — для Power BI
 
+- https://github.com/DariaLadyhina/my_project/blob/main/SQL_A_B-test.sql
+
+ERD for db_a_b_test 
+
+# Візуалізація Pwer BI
+
+- 📄 [PDF-версія дашборду](BI/dashboard_preview.pdf) — для швидкого перегляду
+- 📊 [Файл Power BI (.pbix)](BI/dashboard.pbix) — для локального відкриття
+
+
 
 
 
