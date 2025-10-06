@@ -36,7 +36,7 @@ ETL   →   Postgre SQL   →    Power BI
 
  [Jupyter Notebook: A/B Testing] https://nbviewer.org/github/DariaLadyhina/my_project/blob/main/Project_a_b_test.ipynb
 
-  [Raw версія ноутбука] 
+  [Raw версія ноутбука] https://raw.githubusercontent.com/DariaLadyhina/my_project/refs/heads/main/Project_a_b_test.ipynb
 
 
 
