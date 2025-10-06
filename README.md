@@ -48,7 +48,7 @@ SQL-скрипти для створення view:
 
 - https://github.com/DariaLadyhina/my_project/blob/main/SQL_A_B-test.sql
 
-ERD for db_a_b_test 
+ERD for db_a_b_test https://github.com/DariaLadyhina/my_project/blob/main/ERD%20for%20DB.png
 
 # Візуалізація Pwer BI
 
